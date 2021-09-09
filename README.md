@@ -1,4 +1,4 @@
-# Phase 3 Code Challenge: Movies
+# Phase 3 Practice Code Challenge: Movies
 
 For this assignment, we'll be working with a Movie domain.
 
